@@ -1,3 +1,3 @@
 use master 
 go
-create
+create database zoo
